@@ -1,3 +1,3 @@
-# Test_rabbitMQ
+# test_rabbitMQ
 
 Files to test RabbitMQ
